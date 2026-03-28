@@ -1,7 +1,8 @@
 <h2 align="center">Hi there 👋 I'm Jorge!</h2>
 
 
-- I like deep neural networks, algorithms, and data.  
+- I like deep neural networks, algorithms, and data.
+- Woking on LLMs Tokenizer and opencv Tokenizer. 
 - 📧 How to reach me: head to my website [jorgevelezcs.com](https://jorgevelezcs.com) for contact info.
 
 
