@@ -1,8 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Jorge!</h2>
 
 
-- 💡 Ask me about anything related to algorithms, functional programming, or artificial intelligence in the traditional sense envisioned by Alan Turing and John Von Neumann.
--   Also some backend stuff recently.
+- I like deep neural networks, algorithms, and data.  
 - 📧 How to reach me: head to my website [jorgevelezcs.com](https://jorgevelezcs.com) for contact info.
 
 
